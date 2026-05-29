@@ -1,0 +1,1 @@
+La V være et indreproduktrom og la  $\mathbf{v}_1$  og  $\mathbf{v}_2$  være to vektorer i V slik at både  $\mathbf{v}_1 \neq \mathbf{0}$  og  $\mathbf{v}_2 \neq \mathbf{0}$ . Vis at dersom  $\mathbf{v}_1$  og  $\mathbf{v}_2$  er ortogonale, så er de også lineært uavhengige.

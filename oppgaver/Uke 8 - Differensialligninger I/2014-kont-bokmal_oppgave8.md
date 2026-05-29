@@ -1,0 +1,1 @@
+Oppgave 8 Bruk en substitusjon på forma  $\begin{bmatrix} x_1 \\ x_2 \end{bmatrix} = P \begin{bmatrix} y_1 \\ y_2 \end{bmatrix}$ , og skriv den kvadratiske forma  $4x_1^2 + 24x_1x_2 + 11x_2^2$  på forma  $ay_1^2 + by_2^2$ . Skisser mengda  $\{(x_1, x_2): 4x_1^2 + 24x_1x_2 + 11x_2^2 = 20\}$ .

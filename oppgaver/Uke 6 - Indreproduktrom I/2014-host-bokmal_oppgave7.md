@@ -1,0 +1,1 @@
+Gitt $\mathbf{u}$ og $\mathbf{v}$ to vektorer i $\mathbb{R}^3$ som ikke er null og er lineært uavhengige. Gitt $\mathbf{w}$ en vektor i $\mathbb{R}^3$ som ikke er null. Vis at det finnes en lineærkombinasjon av $\mathbf{u}$ og $\mathbf{v}$ som ikke er null og er ortogonal til $\mathbf{w}$.

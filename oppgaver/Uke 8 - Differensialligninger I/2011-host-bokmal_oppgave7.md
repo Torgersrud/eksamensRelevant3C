@@ -1,0 +1,1 @@
+La A være en $n \times n$ matrise slik at $A^2 = A$. Vis at enhver vektor $\mathbf{x}$ i $\mathbb{R}^n$ kan skrives på formen $\mathbf{x} = \mathbf{u} + \mathbf{v}$ der $A\mathbf{u} = \mathbf{u}$ og $A\mathbf{v} = \mathbf{0}$.

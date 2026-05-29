@@ -1,0 +1,1 @@
+La $A$ være en symmetrisk $n \times n$-matrise, og la $\mathbf{b}$ være en vektor i $\mathbb{R}^n$. Vis at det inhomogene systemet $A\mathbf{x} = \mathbf{b}$ har løsning hvis og bare hvis $\mathbf{b}$ er ortogonal til $	ext{Null}(A)$.

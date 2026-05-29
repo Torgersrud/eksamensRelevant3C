@@ -1,0 +1,1 @@
+La $A$ være en symmetrisk matrise og la $\mathbf{x}$ være en egenvektor til $A$. Vis at dersom $\mathbf{y}$ er en vektor som er ortogonal til $\mathbf{x}$ (det vil si $\mathbf{y} \cdot \mathbf{x} = 0$), så er vektoren $A\mathbf{y}$ også ortogonal til $\mathbf{x}$.

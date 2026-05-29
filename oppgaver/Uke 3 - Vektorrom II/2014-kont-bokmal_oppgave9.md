@@ -1,0 +1,1 @@
+Oppgave 9 La A være ei  $m \times m$  kvadratisk matrise. La  $\lambda$  være en egenverdi til A. Vis at mengda  $\{\vec{x} \in \mathbb{R}^m : A\vec{x} = \lambda \vec{x}\}$  er et underrom av  $\mathbb{R}^m$ .

@@ -1,0 +1,3 @@
+La  $A$  være en $m \times n$ -matrise og la  $B$  være en  $n \times m$ -matrise, slik at  $AB = I_m$  ( $m \times m$ -identitetsmatrisen). La  $f_A \colon \mathbb{R}^n \to \mathbb{R}^m$  være gitt ved  $f_A(\mathbf{x}) = A\mathbf{x}$  og la  $f_B \colon \mathbb{R}^m \to \mathbb{R}^n$  være gitt ved  $f_B(\mathbf{x}) = B\mathbf{x}$ . Hvilken av følgende påstander er sann?
+
+ $\square$ $m \ge n$ , $f_A$  er injektiv, $f_B$  er surjektiv $\square$ $m \le n$ , $f_A$  er surjektiv, $f_B$  er injektiv $\square$ $m = n$ , $f_A$  og  $f_B$  er inverterbare (bijeksjoner) $\square$ $m \le n$ , $f_A$  er injektiv, $f_B$  er surjektiv $\square$ $m \ge n$ , $f_A$  er surjektiv, $f_B$  er injektiv

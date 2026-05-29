@@ -1,0 +1,1 @@
+Oppgave 10 La A være en  $n \times n$  matrise slik at  $A = A \cdot A$  . La  $\{x_1, \ldots, x_k\}$  være en basis for Nul(A), og la  $\{b_1, \ldots, b_l\}$  være en basis for Col(A). Vis at  $\{x_1, \ldots, x_k, b_1, \ldots, b_l\}$  er en basis for  $\mathbb{R}^n$  .

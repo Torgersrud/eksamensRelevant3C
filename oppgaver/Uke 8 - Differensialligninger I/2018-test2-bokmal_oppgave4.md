@@ -1,0 +1,1 @@
+Anta at A er en $3 \times 3$-matrise med egenverdiene 2, 5 og -5. Finn alle egenverdiene til hver av matrisene 3A og $A^2$. (Pass på at du forklarer hvorfor egenverdiene du finner er *alle* egenverdiene til disse matrisene.)

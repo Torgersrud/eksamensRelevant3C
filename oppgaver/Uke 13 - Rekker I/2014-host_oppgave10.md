@@ -1,0 +1,1 @@
+Oppgave 10 Gi et eksempel på to konvergente rekker  $\sum_{n=1}^{\infty} a_n$  og  $\sum_{n=1}^{\infty} b_n$  slik at rekken  $\sum_{n=1}^{\infty} a_n b_n$  divergerer. Vis at det ikke er mulig å gi et slikt eksempel dersom vi i tillegg krever at en av rekkene  $\sum_{n=1}^{\infty} a_n$  eller  $\sum_{n=1}^{\infty} b_n$  skal konvergere absolutt.

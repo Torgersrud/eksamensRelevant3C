@@ -1,0 +1,1 @@
+Oppgave 3 La A være en $3 \times 5$-matrise med rang 2. Finnes det en vektor $\mathbf{b} \in \mathbb{R}^3$ slik at $A\mathbf{x} = \mathbf{b}$ ikke har en løsning $\mathbf{x} \in \mathbb{R}^5$ ? Svaret skal begrunnes.

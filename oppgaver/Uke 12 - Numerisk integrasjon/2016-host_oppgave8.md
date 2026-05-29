@@ -1,0 +1,1 @@
+**Oppgåve 8** Bruk Simpsons metode med fire delintervall til å finne tilnærminga $S_4$ til bogelengda til grafen til $y = \sin x^2$ frå x = 0 til x = 1.

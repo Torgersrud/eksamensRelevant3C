@@ -1,0 +1,1 @@
+For vektorrom  $V$  , så vil  en lineært uavhengig mengde  $\{{\bf v}_1,{\bf v}_2,{\bf v}_3\}$  med vektorer i et  $\{{\bf v}_1,{\bf v}_2\}$  alltid være lineært uavhengig / aldri være lineært uavhengig / noen ganger være lineært uavhengig.

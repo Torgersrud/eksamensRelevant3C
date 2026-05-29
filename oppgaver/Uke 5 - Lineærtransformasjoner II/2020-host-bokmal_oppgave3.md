@@ -1,0 +1,1 @@
+La A være en reell $3 \times 2$-matrise med lineært uavhengige kolonner og $\mathbf{b}$ være en vektor i $\mathbb{R}^3$ slik at $A\mathbf{x} = \mathbf{b}$ ikke har en løsning. La $\hat{\mathbf{x}}$ være vektoren slik at vektoren $\mathbf{w} = \mathbf{b} - A\hat{\mathbf{x}}$ har den minimale lengden. Hvilket underrom er det ortogonale komplementet til Span $\{\mathbf{w}\}$ ?

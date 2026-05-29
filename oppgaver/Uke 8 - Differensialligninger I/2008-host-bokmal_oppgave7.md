@@ -1,0 +1,1 @@
+Anta matrisen $A$ har egenverdi $\lambda$ med $1$-dimensjonalt egenrom $E_{\lambda}$, og at matrisen $B$ oppfyller $AB = BA$. Vis at om $A\mathbf{x} = \lambda \mathbf{x}$, så er $B\mathbf{x} = k\mathbf{x}$ for en konstant $k$ (dvs. $\mathbf{x}$ er også en egenvektor for $B$).

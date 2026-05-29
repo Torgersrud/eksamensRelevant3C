@@ -1,0 +1,7 @@
+Studentene i Matematikk 3 liker å tilbringe helgene sine på Studentersamfundet, men trenger i blant en dag hjemme for å lade batteriene. En rask håndsopprekning i forelesning tyder på at samtlige foretrekker enten fart og spenning på dansegulvet på Bodegaen eller kake og brettspill på Edgar når de først tar turen ut. Oppmerksome forelesere noterer seg følgende trend:
+
+- Dersom en student har vert på Bodegaen en helg, så er det 50 % sannsynlighet for at han trenger den påfølgende helgen hjemme på sofaen, og det er bare 10 % sjanse for å møte studenten igjen på dansegulvet helgen etterpå. Ellers er det jo hyggelig med litt kake.
+- Dersom en student tilbrakte helgen hjemme, så er det en femtedel sjanse for at studenten også er hjemme den påfølgende helgen, mens det er like stor sjanse for at han velger Bodegaen som Edgar, dersom han går ut.
+- Dersom en student var på Edgar en helg, så er det 40 % sjanse for å se studenten igjen på Edgar helgen etterpå også. Ettersom den forrige helgen ikke var så utmattende, er det 35% sjanse for at studenten velger å vise sine kunster på dansegulvet. Noen føler derimot for å ta en rolig helg hjemme kanskje Rosenborg spiller sen bortekamp på TVen?
+
+Første helgen av semesteret dropper Studentersamfundet inngangspenger og samtlige studenter tilbringer selvfølgelig lørdagen sin der, jevnt fordelt på Edgar og Bodegaen. Hvordan ser fordelingen ut blant studentene siste helgen før eksamen?

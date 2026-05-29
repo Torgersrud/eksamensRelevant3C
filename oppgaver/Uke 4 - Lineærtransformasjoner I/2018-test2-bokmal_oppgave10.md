@@ -1,0 +1,1 @@
+La $T: \mathbb{R}^n \to \mathbb{R}^m$ være en lineærtransformasjon. Vis at T er surjektiv hvis og bare hvis det finnes en lineærtransformasjon $S: \mathbb{R}^m \to \mathbb{R}^n$ slik at $T(S(\mathbf{v})) = \mathbf{v}$ for alle vektorer $\mathbf{v}$ i $\mathbb{R}^m$.

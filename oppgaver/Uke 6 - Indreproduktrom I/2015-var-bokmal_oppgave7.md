@@ -1,0 +1,1 @@
+Oppgave 7 Anta at A er en  $m \times n$  -matrise med reelle elementer. Vis at  $\mathbf{x} \cdot A^T A \mathbf{x} \geq 0$  for hver  $\mathbf{x}$  i  $\mathbb{R}^n$  , og derfor er hver reell egenverdi til  $A^T A$  ikkenegativ.
